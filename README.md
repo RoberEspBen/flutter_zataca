@@ -1,6 +1,7 @@
 # flutter_zataca
 
-A new Flutter project.
+Para buildear el proyecto una vez clonado, realizar el comando 'flutter packages get' en la raiz del mismo.
+
 
 ## Getting Started
 
